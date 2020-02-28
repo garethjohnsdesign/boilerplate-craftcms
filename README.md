@@ -1,4 +1,4 @@
-# Gareth Johns Design + Development Boilerplate
+# Visual Inventory
 
 * * *
 
