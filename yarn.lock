@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@swup/body-class-plugin@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@swup/body-class-plugin/-/body-class-plugin-1.0.1.tgz#ed713620f03eb9fdd58ed37902e2f3d1f4f44e87"
-  integrity sha512-y8vAFuT/ytmoTd8B0gJeXXr9aS20Wslfi68Sk72TKZNG5LUk/0Mcr8w8YgJX+u8CvQRr3QBEg8ruN9WCfHeBdQ==
+"@swup/body-class-plugin@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@swup/body-class-plugin/-/body-class-plugin-1.0.2.tgz#40bffaf73e950ee5149267da669457e18fd1c957"
+  integrity sha512-fzK/sY1QeDJje0mNgPuETRmdLOrdJZzoG96GTcTEjBATXAjDbcGvodCCRDE8eNYQMWayHD2Lks4avV9e5cvQ7A==
   dependencies:
     "@swup/plugin" "^1.0.0"
 
@@ -81,10 +81,10 @@ foundation-sites@^6.6.1:
   resolved "https://registry.yarnpkg.com/foundation-sites/-/foundation-sites-6.6.1.tgz#79dce2f897cc08fafa7e8d56f5b0e88b51c45d38"
   integrity sha512-4GrCL8L3osFJM6WCNRIQs5kGX5BCKNuO2zzQN68lUTblgpH7FUE28ctkbNFqoTnkUmWARj5VtiS3oQob3H0eZA==
 
-jquery@>=1.7.0, jquery@^3.4.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
-  integrity sha512-36+AdBzCL+y6qjw5Tx7HgzeGCzC81MDDgaUP8ld2zhx58HdqXGoBd+tHdrBMiyjGQs0Hxs/MLZTu/eHNJJuWPw==
+jquery@>=1.7.0, jquery@^3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.5.0.tgz#9980b97d9e4194611c36530e7dc46a58d7340fc9"
+  integrity sha512-Xb7SVYMvygPxbFMpTFQiHh1J7HClEaThguL15N/Gg37Lri/qKyhRGZYzHRyLH8Stq3Aow0LsHO2O2ci86fCrNQ==
 
 js-cookie@^2.2.1:
   version "2.2.1"
@@ -121,6 +121,11 @@ lodash.throttle@^4.0.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/lodash.throttle/-/lodash.throttle-4.1.1.tgz#c23e91b710242ac70c37f1e1cda9274cc39bf2f4"
   integrity sha1-wj6RtxAkKscMN/HhzaknTMOb8vQ=
+
+motion-ui@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/motion-ui/-/motion-ui-2.0.3.tgz#3a87f8fea4512d654c0822a0b346f23dadf0d0b7"
+  integrity sha512-f9xzh/hbZTUYjk4M7y1aDcsiPTfqUbuvCv/+If05TSIBEJMu3hGBU+YSe9csQPP7WBBHXxjossEygM/TJo2enw==
 
 opencollective-postinstall@^2.0.2:
   version "2.0.2"
